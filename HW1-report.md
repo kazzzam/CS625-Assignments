@@ -19,7 +19,7 @@ A list with three items:
 * Item 3
 
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph does not have to make sense.*
-This is an example of **bold text**, ***bold italics***, code is 'print('Hello World').
+This is an example of **bold text**, ***bold italics***, code is 'print('Hello World')'.
 [This is a link to GitHub syntacs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)
 
 ###This is a 3rd level heading
