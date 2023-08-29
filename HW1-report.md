@@ -5,19 +5,22 @@ Due: September 6, 2023
 
 ## Git, GitHub
 
-*(https://github.com/kazzzam/HW1-report.md/edit/main/HW1-report.md)*
+My HW1 repo: (https://github.com/kazzzam/HW1-report.md/edit/main/HW1-report.md)
    
-*The 'pull' command works by sending remote changes to local*
+The 'pull' command works by sending remote changes to local
    
-*You need to push the changes to the remote repository on GitHub*
+You need to push the changes to the remote repository on GitHub
 
 ## Markdown
 
 *Create a bulleted list with at least 3 items*
 
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph does not have to make sense.*
+This is an example of **bold text**, *bold italics*, code is 'print('Hello World').
+This is a link to GitHub syntacs: (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)
 
 *Create a level 3 heading*
+###This is a 3rd level heading
 
 *Insert an image of an animal, sized appropriately*
 
