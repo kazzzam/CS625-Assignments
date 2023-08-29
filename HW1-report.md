@@ -32,7 +32,7 @@ This is an example of **bold text**, ***bold italics***, code is 'print('Hello W
 
 ## Google Colab
 
-*What is the URL of your Google Colab notebook?*
+![This is the URL for my Google Colab assignment](https://colab.research.google.com/drive/1hSiM0ZquIZ9WDQWSnf53w9K3v4ncWfxO?usp=sharing)
 
 ## Python/Seaborn
 
