@@ -37,10 +37,12 @@ This is an example of **bold text**, ***bold italics***, code is 'print('Hello W
 ## Python/Seaborn
 
 *Insert the first penguin chart here*
+![This is the first penguin chart](file:///C:/Users/kslimak/Downloads/CS625HW1_BillLengthVSBillDepth.png)
 
 *Describe what the figure is showing.*
 
 *Insert the second penguin chart here*
+![This is the second penguin chart](file:///C:/Users/kslimak/Downloads/CS625HW1_BodyMassVSSpecies.png)
 
 *Describe what the figure is showing.*
 
