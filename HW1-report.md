@@ -5,11 +5,11 @@ Due: September 6, 2023
 
 ## Git, GitHub
 
-*What is the URL of the GitHub repo that you created in your personal account?*
+*(https://github.com/kazzzam/HW1-report.md/edit/main/HW1-report.md)*
    
-*In which direction does the 'pull' command work (send local changes to remote OR send remote changes to local)?*
+*The 'pull' command works by sending remote changes to local*
    
-*If you have committed a change on your local machine, but do not see the update on GitHub.com, what step might have you forgotten?*
+*You need to push the changes to the remote repository on GitHub*
 
 ## Markdown
 
